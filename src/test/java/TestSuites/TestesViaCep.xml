@@ -1,0 +1,12 @@
+<suite name="TestesViaCep" verbose="1">
+    <test name="RequisicoesCEP">
+<!--       <classes>-->
+<!--            <class name="TestCases.ViaCep.ConsultarCepInvalido"/>-->
+<!--            <class name="TestCases.ViaCep.ConsultarCepInexistenteTestCase"/>-->
+<!--            <class name="TestCases.ViaCep.ConsultarCepValidoTestCase"/>-->
+<!--        </classes>-->
+        <packages>
+            <package name="TestCases.ViaCep"/>
+        </packages>
+    </test>
+</suite>
